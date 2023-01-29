@@ -5,4 +5,5 @@ import dash
 import scipy
 import statsmodels
 import sklearn
+import beautifulSoup
 
