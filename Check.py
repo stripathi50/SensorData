@@ -7,3 +7,4 @@ import statsmodels
 import sklearn
 import beautifulSoup
 
+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
